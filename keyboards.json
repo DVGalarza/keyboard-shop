@@ -1,50 +1,38 @@
 [
-    {
-        "id": 1,
-        "name": "Midnight Blue 60%",
-        "category": "60%",
-        "price": 180,
-        "description": "Compact 60% keyboard with a stunning midnight blue aluminum case. Perfect for minimalists who want maximum desk space.",
-        "image": "images/keyboard1.jpg",
-        "switches": "Cherry MX Blue",
-        "keycaps": "PBT Double-Shot",
-        "caseMaterial": "Aluminum",
-        "available": true
-    },
-    {
-        "id": 2,
-        "name": "Rose Gold TKL",
-        "category": "TKL",
-        "price": 220,
-        "description": "Tenkeyless keyboard with a beautiful rose gold finish. Features premium switches and artisan keycaps.",
-        "image": "images/keyboard2.jpg",
-        "switches": "Gateron Yellow",
-        "keycaps": "GMK Clone",
-        "caseMaterial": "Aluminum",
-        "available": true
-    },
-    {
-        "id": 3,
-        "name": "Stealth Black 75%",
-        "category": "75%",
-        "price": 200,
-        "description": "Sleek 75% layout with arrow keys and function row. All-black design with RGB underglow.",
-        "image": "images/keyboard3.jpg",
-        "switches": "Cherry MX Silent Red",
-        "keycaps": "PBT Blank Black",
-        "caseMaterial": "Plastic",
-        "available": false
-    },
-    {
-        "id": 4,
-        "name": "Pastel Dream 65%",
-        "category": "75%",
-        "price": 195,
-        "description": "Adorable pastel-colored keyboard with custom painted case. Features smooth linear switches.",
-        "image": "images/keyboard4.jpg",
-        "switches": "Alpaca Linear",
-        "keycaps": "Pastel PBT",
-        "caseMaterial": "Aluminum",
-        "available": true
-    }
+  {
+    "id": 1,
+    "name": "Redragon K673 Pro",
+    "category": "75%",
+    "price": 45,
+    "description": "A compact 75% wireless gasket keyboard with 81 keys and a dedicated volume knob. Features 5-layer noise dampening, tri-mode connectivity (USB-C, BT 3.0/5.0, 2.4GHz), and hot-swappable sockets for a versatile, satisfying typing experience.",
+    "image": "images/redragon-k673-pro.jpg",
+    "switches": "Redragon Red (Linear)",
+    "keycaps": "PBT Double-shot",
+    "caseMaterial": "Plastic (Gasket Mount)",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Epomaker TH85",
+    "category": "75%",
+    "price": 50,
+    "description": "A feature-packed 75% wireless keyboard with QMK/VIA support and a glowing RGB frame. Tri-mode (BT5.0, 2.4GHz, USB-C), gasket mounted, hot-swappable, with 84 pre-lubed Creamy Jade linear switches and Cherry profile PBT keycaps.",
+    "image": "images/epomaker-th85.jpg",
+    "switches": "Epomaker Creamy Jade (Linear, Pre-lubed)",
+    "keycaps": "PBT Cherry Profile",
+    "caseMaterial": "Plastic (Gasket Mount)",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Solakaka KI75",
+    "category": "75%",
+    "price": 42,
+    "description": "A premium aluminum 75% wireless keyboard with CNC-machined case and five-layer gasket structure. Includes a multifunction knob, magnetic wrist rest, side-printed PBT keycaps, and tri-mode connectivity (2.4GHz, BT5.0, USB-C).",
+    "image": "images/solakaka-ki75.jpg",
+    "switches": "Linear (Pre-lubed, Hot-swappable)",
+    "keycaps": "PBT Side-printed",
+    "caseMaterial": "Aluminum (CNC Machined)",
+    "available": true
+  }
 ]
