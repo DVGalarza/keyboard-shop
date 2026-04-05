@@ -34,5 +34,17 @@
     "keycaps": "PBT Side-printed",
     "caseMaterial": "Aluminum (CNC Machined)",
     "available": true
+  },
+  {
+    "id": 4,
+    "name": "SbocKeeb 75%",
+    "category": "75%",
+    "price": 25,
+    "description": "A budget-friendly 75% gasket-mounted keyboard with 82 keys, sound-absorbing pads, and a volume knob. Features hot-swappable sockets, full NKRO, vibrant RGB lighting, and customizable software. Comes with an extra supplementary keycap set.",
+    "image": "images/surmen-sbockeeb.jpg",
+    "switches": "Red Linear (Hot-swappable)",
+    "keycaps": "PBT",
+    "caseMaterial": "Plastic (Gasket Mount)",
+    "available": true
   }
 ]
